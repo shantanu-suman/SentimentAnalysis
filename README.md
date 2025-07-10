@@ -12,7 +12,6 @@ This project demonstrates how to perform sentiment analysis on user comments usi
   - `Comment` – Raw text comment
   - `Sentiment` – Target label (e.g., Positive, Negative)
 
----
 
 ## 🛠️ Libraries Used
 
